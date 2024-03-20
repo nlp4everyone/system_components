@@ -1,3 +1,4 @@
 schedule==1.2.1
 StrEnum==0.4.15
 notify-py==0.3.42
+pynvml

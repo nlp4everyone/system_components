@@ -1,8 +1,8 @@
 import platform,notifypy,os
 from strenum import StrEnum
 # For Mac, try pync
-icon_folder = "system_components/icon/system_icon"
-sound_file = "system_components/sounds/system_sound/notification_sound.wav"
+icon_folder = "system_components/system_icon"
+sound_file = "system_components/system_sound/notification_sound.wav"
 
 class UrgencyType(StrEnum):
     LOW = "low",
